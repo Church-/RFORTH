@@ -1,0 +1,6 @@
+[package]
+name = "rforth"
+version = "0.1.0"
+authors = ["Noah <turing.thesis@gmail.com>"]
+
+[dependencies]
